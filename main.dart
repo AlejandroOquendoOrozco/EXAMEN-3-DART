@@ -1,0 +1,48 @@
+import 'problema01.dart';
+import 'problema02.dart';
+import 'problema03.dart';
+import 'problema04.dart';
+import 'problema05.dart';
+import 'problema06.dart';
+import 'problema07.dart';
+import 'problema08.dart';
+import 'problema09.dart';
+import 'problema10.dart';
+import 'problema11.dart';
+import 'problema12.dart';
+import 'problema13.dart';
+import 'problema14.dart';
+import 'problema15.dart';
+
+void main() {
+  print("EJERCICIO 1");
+  positivePower();
+  print("EJERCICIO 2");
+  doubleOrTriple();
+  print("EJERCICIO 3");
+  rootOrSquare();
+  print("EJERCICIO 4");
+  circlePerimeter();
+  print("EJERCICIO 5");
+  midweekDay();
+  print("EJERCICIO 6");
+  taxCalculator();
+  print("EJERCICIO 7");
+  remainderFinder();
+  print("EJERCICIO 8");
+  sumOfEvens();
+  print("EJERCICIO 9");
+  fractionDifference();
+  print("EJERCICIO 10");
+  stringLength();
+  print("EJERCICIO 11");
+  averageOfFour();
+  print("EJERCICIO 12");
+  smallestOfFive();
+  print("EJERCICIO 13");
+  vowelCounter();
+  print("EJERCICIO 14");
+  factorialFinder();
+  print("EJERCICIO 15");
+  inRangeValidator();
+}
